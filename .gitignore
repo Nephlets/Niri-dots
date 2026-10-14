@@ -1,0 +1,18 @@
+# Environment files and potential secrets
+.env
+.env.*
+*.token
+*.secret
+
+# Editor temporary files
+*.swp
+*.tmp
+*~
+
+# Backup files
+*.bak
+*.old
+
+# Cache and temporary data
+cache/
+.cache/
